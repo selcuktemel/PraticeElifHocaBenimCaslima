@@ -19,7 +19,11 @@ public class Q04_PerfectNumber {
         int sayi = scan.nextInt();
 
         mukemmelSayi(sayi);
+
         System.out.println("*******************");
+
+        System.out.println("******************");
+
         girilenSayiyaKadarOlanMukemmel(sayi);
     }
 
